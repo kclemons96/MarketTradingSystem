@@ -1,0 +1,50 @@
+{
+    "job_id": "XNAS-20251017-JML4RYVC8E",
+    "files": [
+        {
+            "filename": "condition.json",
+            "size": 156479,
+            "hash": "sha256:e773bb49c7632db58f66054214bb502743e80b37c28fe32203821e55d5286341",
+            "urls": {
+                "https": "https://api.databento.com/v0/batch/download/ELEELBAV/XNAS-20251017-JML4RYVC8E/condition.json",
+                "ftp": "ftp://ftp.databento.com/ELEELBAV/XNAS-20251017-JML4RYVC8E/condition.json"
+            }
+        },
+        {
+            "filename": "metadata.json",
+            "size": 687,
+            "hash": "sha256:d70c9fd8ec84dcd5706b3e7ba107c56d6120d566f45d41c53fc8137f2301ec0e",
+            "urls": {
+                "https": "https://api.databento.com/v0/batch/download/ELEELBAV/XNAS-20251017-JML4RYVC8E/metadata.json",
+                "ftp": "ftp://ftp.databento.com/ELEELBAV/XNAS-20251017-JML4RYVC8E/metadata.json"
+            }
+        },
+        {
+            "filename": "symbology.json",
+            "size": 94335,
+            "hash": "sha256:ce2565c8ef162c038db9d194789da68eee47dee4cef4e41f4b07453896ad084f",
+            "urls": {
+                "https": "https://api.databento.com/v0/batch/download/ELEELBAV/XNAS-20251017-JML4RYVC8E/symbology.json",
+                "ftp": "ftp://ftp.databento.com/ELEELBAV/XNAS-20251017-JML4RYVC8E/symbology.json"
+            }
+        },
+        {
+            "filename": "symbology.csv",
+            "size": 39903,
+            "hash": "sha256:c38baac96b5fdc56a83660e00e04764171b25f3f975f8bc35c7e72239bacc782",
+            "urls": {
+                "https": "https://api.databento.com/v0/batch/download/ELEELBAV/XNAS-20251017-JML4RYVC8E/symbology.csv",
+                "ftp": "ftp://ftp.databento.com/ELEELBAV/XNAS-20251017-JML4RYVC8E/symbology.csv"
+            }
+        },
+        {
+            "filename": "xnas-itch-20201017-20251016.ohlcv-1h.csv.zst",
+            "size": 417244,
+            "hash": "sha256:8c3eae965ba533575b7f9d3bbad396d0ad4739e55803d3a66a520dd1834881fd",
+            "urls": {
+                "https": "https://api.databento.com/v0/batch/download/ELEELBAV/XNAS-20251017-JML4RYVC8E/xnas-itch-20201017-20251016.ohlcv-1h.csv.zst",
+                "ftp": "ftp://ftp.databento.com/ELEELBAV/XNAS-20251017-JML4RYVC8E/xnas-itch-20201017-20251016.ohlcv-1h.csv.zst"
+            }
+        }
+    ]
+}
