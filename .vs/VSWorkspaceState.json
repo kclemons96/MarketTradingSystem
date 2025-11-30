@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Monte Carlo Permutation Tests",
+    "\\Stationarity Test"
   ],
-  "SelectedNode": "\\C:\\Users\\kclem\\Source\\Repos\\NewRepo",
+  "SelectedNode": "\\Stationarity Test\\Stationarity.py",
   "PreviewInSolutionExplorer": false
 }
